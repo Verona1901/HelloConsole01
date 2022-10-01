@@ -1,0 +1,15 @@
+C:\Verona\GeekBrains\3. Знакомство с языками программирования\Лекция1\Examples\Examle001_HelloConsole\bin\Debug\net6.0\Examle001_HelloConsole.exe
+C:\Verona\GeekBrains\3. Знакомство с языками программирования\Лекция1\Examples\Examle001_HelloConsole\bin\Debug\net6.0\Examle001_HelloConsole.deps.json
+C:\Verona\GeekBrains\3. Знакомство с языками программирования\Лекция1\Examples\Examle001_HelloConsole\bin\Debug\net6.0\Examle001_HelloConsole.runtimeconfig.json
+C:\Verona\GeekBrains\3. Знакомство с языками программирования\Лекция1\Examples\Examle001_HelloConsole\bin\Debug\net6.0\Examle001_HelloConsole.dll
+C:\Verona\GeekBrains\3. Знакомство с языками программирования\Лекция1\Examples\Examle001_HelloConsole\bin\Debug\net6.0\Examle001_HelloConsole.pdb
+C:\Verona\GeekBrains\3. Знакомство с языками программирования\Лекция1\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.csproj.AssemblyReference.cache
+C:\Verona\GeekBrains\3. Знакомство с языками программирования\Лекция1\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Verona\GeekBrains\3. Знакомство с языками программирования\Лекция1\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.AssemblyInfoInputs.cache
+C:\Verona\GeekBrains\3. Знакомство с языками программирования\Лекция1\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.AssemblyInfo.cs
+C:\Verona\GeekBrains\3. Знакомство с языками программирования\Лекция1\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Verona\GeekBrains\3. Знакомство с языками программирования\Лекция1\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.dll
+C:\Verona\GeekBrains\3. Знакомство с языками программирования\Лекция1\Examples\Examle001_HelloConsole\obj\Debug\net6.0\refint\Examle001_HelloConsole.dll
+C:\Verona\GeekBrains\3. Знакомство с языками программирования\Лекция1\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.pdb
+C:\Verona\GeekBrains\3. Знакомство с языками программирования\Лекция1\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.genruntimeconfig.cache
+C:\Verona\GeekBrains\3. Знакомство с языками программирования\Лекция1\Examples\Examle001_HelloConsole\obj\Debug\net6.0\ref\Examle001_HelloConsole.dll
